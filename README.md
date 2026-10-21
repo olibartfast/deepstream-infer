@@ -1,6 +1,6 @@
-![Deep Infer](docs/assets/deepstream-banner.svg)
+![DeepStream Infer](docs/assets/deepstream-banner.svg)
 
-# Deep Infer
+# DeepStream Infer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
